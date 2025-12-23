@@ -1,0 +1,5 @@
+{
+  "name": "React PvZ Prototype",
+  "description": "A robust Plants vs. Zombies prototype featuring a custom game engine, multiple level types (Day, Night, Pool, Roof), Almanac, and full game loop mechanics using React and HTML5 Canvas.",
+  "requestFramePermissions": []
+}
